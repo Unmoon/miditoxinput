@@ -1,0 +1,25 @@
+{
+  "handlers": [
+    {
+      "type": "SliderHandler",
+      "command": 84,
+      "args": {
+        "axis": "AxisLx"
+      }
+    },
+    {
+      "type": "ButtonHandler",
+      "command": 106,
+      "args": {
+        "button": "BtnThumbR"
+      }
+    },
+    {
+      "type": "ButtonHandler",
+      "command": 107,
+      "args": {
+        "button": "BtnThumbL"
+      }
+    }
+  ]
+}
